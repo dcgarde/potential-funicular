@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  star_time: 2022-05-06 14:06:57
+  end_time: 2022-05-06 14:06:57
+  users: one
+
+two:
+  name: MyString
+  star_time: 2022-05-06 14:06:57
+  end_time: 2022-05-06 14:06:57
+  users: two
